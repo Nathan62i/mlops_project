@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/493843891007736314/8ec4c3cc7a8e4086962934411cc0f071/artifacts
+deleted_time: 1731424096016
+end_time: 1731422361874
+entry_point_name: ''
+experiment_id: '493843891007736314'
+lifecycle_stage: deleted
+run_id: 8ec4c3cc7a8e4086962934411cc0f071
+run_name: powerful-lynx-188
+run_uuid: 8ec4c3cc7a8e4086962934411cc0f071
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731422189655
+status: 3
+tags: []
+user_id: nathan.gerussi.etu

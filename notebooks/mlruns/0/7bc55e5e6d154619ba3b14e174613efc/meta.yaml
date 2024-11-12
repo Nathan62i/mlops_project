@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/7bc55e5e6d154619ba3b14e174613efc/artifacts
+end_time: 1731428788004
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7bc55e5e6d154619ba3b14e174613efc
+run_name: popular-fox-104
+run_uuid: 7bc55e5e6d154619ba3b14e174613efc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731428787949
+status: 4
+tags: []
+user_id: nathan.gerussi.etu

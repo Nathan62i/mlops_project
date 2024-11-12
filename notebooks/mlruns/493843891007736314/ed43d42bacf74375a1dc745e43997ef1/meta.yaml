@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/493843891007736314/ed43d42bacf74375a1dc745e43997ef1/artifacts
+deleted_time: 1731420539727
+end_time: 1731419698569
+entry_point_name: ''
+experiment_id: '493843891007736314'
+lifecycle_stage: deleted
+run_id: ed43d42bacf74375a1dc745e43997ef1
+run_name: monumental-horse-313
+run_uuid: ed43d42bacf74375a1dc745e43997ef1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731419698529
+status: 4
+tags: []
+user_id: nathan.gerussi.etu

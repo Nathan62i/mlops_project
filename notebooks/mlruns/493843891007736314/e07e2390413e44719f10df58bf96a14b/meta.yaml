@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/493843891007736314/e07e2390413e44719f10df58bf96a14b/artifacts
+deleted_time: 1731421403309
+end_time: 1731420521242
+entry_point_name: ''
+experiment_id: '493843891007736314'
+lifecycle_stage: deleted
+run_id: e07e2390413e44719f10df58bf96a14b
+run_name: powerful-newt-25
+run_uuid: e07e2390413e44719f10df58bf96a14b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731420462644
+status: 3
+tags: []
+user_id: nathan.gerussi.etu

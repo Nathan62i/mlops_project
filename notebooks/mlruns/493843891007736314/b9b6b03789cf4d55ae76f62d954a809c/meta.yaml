@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/493843891007736314/b9b6b03789cf4d55ae76f62d954a809c/artifacts
+deleted_time: 1731420539726
+end_time: 1731420237100
+entry_point_name: ''
+experiment_id: '493843891007736314'
+lifecycle_stage: deleted
+run_id: b9b6b03789cf4d55ae76f62d954a809c
+run_name: suave-midge-341
+run_uuid: b9b6b03789cf4d55ae76f62d954a809c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731420184441
+status: 4
+tags: []
+user_id: nathan.gerussi.etu

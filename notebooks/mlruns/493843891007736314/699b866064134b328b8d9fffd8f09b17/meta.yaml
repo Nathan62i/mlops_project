@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/493843891007736314/699b866064134b328b8d9fffd8f09b17/artifacts
+deleted_time: 1731424971767
+end_time: 1731422781111
+entry_point_name: ''
+experiment_id: '493843891007736314'
+lifecycle_stage: deleted
+run_id: 699b866064134b328b8d9fffd8f09b17
+run_name: whimsical-quail-300
+run_uuid: 699b866064134b328b8d9fffd8f09b17
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731422605304
+status: 3
+tags: []
+user_id: nathan.gerussi.etu

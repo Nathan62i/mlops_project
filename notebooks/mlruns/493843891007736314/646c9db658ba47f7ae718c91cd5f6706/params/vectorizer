@@ -1,0 +1,6 @@
+CountVectorizer(stop_words=['quels', 'cependant', 'retour', 'vôtre', 'suivant',
+                            'sait', 'miennes', 'ni', 'dit', 'différente',
+                            'quatorze', 'certain', 'effet', "qu'", 'debout',
+                            'vingt', 'très', 'tel', 'hue', 'toujours', 'unes',
+                            'possible', 'malgre', 'de', 'onze', 'hé',
+                            'desormais', 'première', 'hors', 'doivent', ...])

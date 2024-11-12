@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/493843891007736314/ab838305c6bb46e8bb3d502f43931c3a/artifacts
+deleted_time: 1731422403759
+end_time: 1731421331664
+entry_point_name: ''
+experiment_id: '493843891007736314'
+lifecycle_stage: deleted
+run_id: ab838305c6bb46e8bb3d502f43931c3a
+run_name: placid-yak-794
+run_uuid: ab838305c6bb46e8bb3d502f43931c3a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731421273748
+status: 3
+tags: []
+user_id: nathan.gerussi.etu

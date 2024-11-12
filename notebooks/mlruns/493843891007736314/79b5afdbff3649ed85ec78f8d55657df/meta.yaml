@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/493843891007736314/79b5afdbff3649ed85ec78f8d55657df/artifacts
+deleted_time: 1731422403756
+end_time: 1731422047834
+entry_point_name: ''
+experiment_id: '493843891007736314'
+lifecycle_stage: deleted
+run_id: 79b5afdbff3649ed85ec78f8d55657df
+run_name: respected-skunk-874
+run_uuid: 79b5afdbff3649ed85ec78f8d55657df
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731422047783
+status: 4
+tags: []
+user_id: nathan.gerussi.etu

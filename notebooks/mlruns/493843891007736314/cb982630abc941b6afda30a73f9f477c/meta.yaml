@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/493843891007736314/cb982630abc941b6afda30a73f9f477c/artifacts
+deleted_time: 1731420539727
+end_time: 1731419763461
+entry_point_name: ''
+experiment_id: '493843891007736314'
+lifecycle_stage: deleted
+run_id: cb982630abc941b6afda30a73f9f477c
+run_name: traveling-frog-440
+run_uuid: cb982630abc941b6afda30a73f9f477c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731419714388
+status: 4
+tags: []
+user_id: nathan.gerussi.etu

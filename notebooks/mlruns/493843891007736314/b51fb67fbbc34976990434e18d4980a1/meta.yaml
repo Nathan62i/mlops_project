@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/493843891007736314/b51fb67fbbc34976990434e18d4980a1/artifacts
+deleted_time: 1731420539727
+end_time: 1731420098288
+entry_point_name: ''
+experiment_id: '493843891007736314'
+lifecycle_stage: deleted
+run_id: b51fb67fbbc34976990434e18d4980a1
+run_name: awesome-cow-460
+run_uuid: b51fb67fbbc34976990434e18d4980a1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731420048781
+status: 4
+tags: []
+user_id: nathan.gerussi.etu

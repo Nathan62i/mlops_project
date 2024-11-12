@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/08228444481e4cdf9fddebea1ec9afe1/artifacts
+end_time: 1731429014844
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 08228444481e4cdf9fddebea1ec9afe1
+run_name: judicious-shrew-889
+run_uuid: 08228444481e4cdf9fddebea1ec9afe1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731429014789
+status: 4
+tags: []
+user_id: nathan.gerussi.etu
