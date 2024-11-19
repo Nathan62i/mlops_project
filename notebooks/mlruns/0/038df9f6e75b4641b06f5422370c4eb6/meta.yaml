@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/038df9f6e75b4641b06f5422370c4eb6/artifacts
+end_time: 1732023248219
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 038df9f6e75b4641b06f5422370c4eb6
+run_name: smiling-finch-278
+run_uuid: 038df9f6e75b4641b06f5422370c4eb6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732023183722
+status: 3
+tags: []
+user_id: nathan.gerussi.etu

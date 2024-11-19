@@ -1,0 +1,24 @@
+artifact_path: train_review
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.10.12
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.5.2
+mlflow_version: 2.18.0
+model_size_bytes: 3585011
+model_uuid: 3b12435a8cbc4724b38a7f82d4833b92
+run_id: 60905fdaf50640a79ed8d5771c49c659
+signature:
+  inputs: '[{"type": "string", "name": "review", "required": true}]'
+  outputs: '[{"type": "tensor", "tensor-spec": {"dtype": "int64", "shape": [-1]}}]'
+  params: null
+utc_time_created: '2024-11-19 13:36:16.452630'

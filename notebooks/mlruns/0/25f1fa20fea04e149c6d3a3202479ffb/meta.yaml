@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/25f1fa20fea04e149c6d3a3202479ffb/artifacts
+end_time: 1732022533720
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 25f1fa20fea04e149c6d3a3202479ffb
+run_name: carefree-bass-788
+run_uuid: 25f1fa20fea04e149c6d3a3202479ffb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732022533668
+status: 4
+tags: []
+user_id: nathan.gerussi.etu

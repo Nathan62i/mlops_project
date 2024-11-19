@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/8057e0550127425c9dd7d77da093d1ef/artifacts
+end_time: 1732022381170
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8057e0550127425c9dd7d77da093d1ef
+run_name: serious-bird-714
+run_uuid: 8057e0550127425c9dd7d77da093d1ef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732022381125
+status: 4
+tags: []
+user_id: nathan.gerussi.etu

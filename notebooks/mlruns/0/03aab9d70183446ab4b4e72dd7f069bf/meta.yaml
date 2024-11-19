@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/03aab9d70183446ab4b4e72dd7f069bf/artifacts
+end_time: 1732022829118
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 03aab9d70183446ab4b4e72dd7f069bf
+run_name: whimsical-shad-671
+run_uuid: 03aab9d70183446ab4b4e72dd7f069bf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732022756997
+status: 4
+tags: []
+user_id: nathan.gerussi.etu

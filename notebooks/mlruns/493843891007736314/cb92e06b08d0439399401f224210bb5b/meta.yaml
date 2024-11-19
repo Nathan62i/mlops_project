@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/493843891007736314/cb92e06b08d0439399401f224210bb5b/artifacts
+end_time: 1732023604932
+entry_point_name: ''
+experiment_id: '493843891007736314'
+lifecycle_stage: active
+run_id: cb92e06b08d0439399401f224210bb5b
+run_name: inquisitive-loon-431
+run_uuid: cb92e06b08d0439399401f224210bb5b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732023544195
+status: 3
+tags: []
+user_id: nathan.gerussi.etu

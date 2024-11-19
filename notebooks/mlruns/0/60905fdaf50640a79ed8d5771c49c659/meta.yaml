@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/60905fdaf50640a79ed8d5771c49c659/artifacts
+end_time: 1732023378722
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 60905fdaf50640a79ed8d5771c49c659
+run_name: angry-quail-174
+run_uuid: 60905fdaf50640a79ed8d5771c49c659
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732023308767
+status: 3
+tags: []
+user_id: nathan.gerussi.etu

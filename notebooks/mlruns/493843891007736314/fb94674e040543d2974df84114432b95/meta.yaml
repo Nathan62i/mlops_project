@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/493843891007736314/fb94674e040543d2974df84114432b95/artifacts
+end_time: 1732023675903
+entry_point_name: ''
+experiment_id: '493843891007736314'
+lifecycle_stage: active
+run_id: fb94674e040543d2974df84114432b95
+run_name: bald-stork-476
+run_uuid: fb94674e040543d2974df84114432b95
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732023604948
+status: 3
+tags: []
+user_id: nathan.gerussi.etu

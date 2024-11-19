@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1732023378700
+current_stage: None
+description: ''
+last_updated_timestamp: 1732023378700
+name: logisticRegression
+run_id: 60905fdaf50640a79ed8d5771c49c659
+run_link: ''
+source: mlflow-artifacts:/0/60905fdaf50640a79ed8d5771c49c659/artifacts/train_review
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/0/60905fdaf50640a79ed8d5771c49c659/artifacts/train_review
+user_id: null
+version: 9

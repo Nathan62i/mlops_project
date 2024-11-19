@@ -1,0 +1,2 @@
+[console_scripts]
+predict = sentiment_analyzer.predict:main
