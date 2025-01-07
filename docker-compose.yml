@@ -1,0 +1,24 @@
+version: '3.8'
+
+services:
+  webapp:
+    build:
+      context: ./webapp
+    ports:
+      - "8000:8000"  # Remplacez 5000 par le port exposé par votre webapp
+    networks:
+      - app_network
+
+  frontend:
+    build:
+      context: ./src/frontend
+    ports:
+      - "8501:8501"  # Port exposé pour accéder à Streamlit
+    depends_on:
+      - webapp
+    networks:
+      - app_network
+
+networks:
+  app_network:
+    driver: bridge
