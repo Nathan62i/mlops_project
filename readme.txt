@@ -149,6 +149,16 @@ docker build -t sentiment-analyzer .
 
 docker run -p 8000:8000 sentiment-analyzer
 
+### 7. Build the frontend
+
+From the 'src/frontend' directory, launch the streamlit app:
+```bash
+streamlit run app.py
+
+docker-compose build
+
+docker-compose up
+
 ### Additionnal documentation 
 
 - MLFlow Documentation
